@@ -1,2 +1,2 @@
 # Gitpractice14April2018
-learning git
+This repository is for learning git
